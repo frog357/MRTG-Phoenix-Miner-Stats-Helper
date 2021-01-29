@@ -7,7 +7,7 @@ This is free software, consider supporting me by checking out the following:
 5. Sign up at Coinbase: https://www.coinbase.com/join/tarase_gz
 
 
-![Sample Graph Showing MH/s](https://www.github.com/frog357/)
+![Sample Graph Showing MH/s](https://github.com/frog357/MRTG-Phoenix-Miner-Stats-Helper/blob/main/Examples/miner001-1-day.png)
 
 
 Intro:
