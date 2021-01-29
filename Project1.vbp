@@ -1,0 +1,53 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Module=cmdReadWrite; CMD_ReadWrite.bas
+Module=ReadWrite_File; File_ReadWrite.bas
+Module=Web_ReadURL; Web_ReadURL.bas
+Module=MainMod; MainMod.bas
+Module=ReadWrite_INI; File_INI.bas
+Startup="Sub Main"
+HelpFile=""
+Title="MRTG-PhoenixMiner"
+ExeName32="MRTG-MinerReport.exe"
+Command32=""
+Name="MRTG4Miners"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=7
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionComments="Created by Freddyt.com - visit my site to trade Cryptocurrency"
+VersionFileDescription="Tool to output specific stats about your Phoenix Miner for use by MRTG."
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[vbAdvance]
+IsConsole=1
+HasStubFile=0
+GenerateMap=0
+TSAware=0
+XPManifest=0
+ResBuildName=.\Project1.dll
+ReplaceIcon=0
+SendCommandArgs=0
+SymbDbgPref=0
+RevisionVersion=0

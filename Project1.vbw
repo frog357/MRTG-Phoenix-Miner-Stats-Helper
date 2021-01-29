@@ -1,0 +1,5 @@
+cmdReadWrite = 0, 0, 0, 0, C
+ReadWrite_File = 0, 0, 0, 0, C
+Web_ReadURL = 0, 0, 0, 0, C
+MainMod = 78, 78, 1276, 706, Z
+ReadWrite_INI = 0, 0, 0, 0, C
